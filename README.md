@@ -70,4 +70,4 @@ The QR opens this download/instruction page. Keep using it when new releases app
 
 ## License and source
 
-APT product binaries are proprietary. This public repository contains distribution files and documentation, **not the private application source**. Bundled third-party and upstream notices remain in the packages. Public availability does not grant rights to resell the product or remove notices. See the included license.
+APT authorizes downloading and running these published prototypes for personal evaluation. APT product binaries are proprietary. This public repository contains distribution files and documentation, **not the private application source**. Bundled third-party and upstream notices remain in the packages. Public availability does not grant rights to resell the product or remove notices. See the included license.
